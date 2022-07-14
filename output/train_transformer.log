@@ -1,0 +1,240 @@
+iter: 000100 - train loss: 0.881 - lr: 1.38e-05 - load time: 0.28 - gpu time: 15.80
+iter: 000200 - train loss: 0.846 - lr: 1.91e-05 - load time: 0.02 - gpu time: 15.73
+iter: 000300 - train loss: 0.780 - lr: 2.77e-05 - load time: 0.02 - gpu time: 14.53
+iter: 000400 - train loss: 0.766 - lr: 3.95e-05 - load time: 0.02 - gpu time: 14.94
+iter: 000500 - train loss: 0.757 - lr: 5.42e-05 - load time: 0.02 - gpu time: 15.94
+iter: 000500 - valid loss: 0.697 - acc full seq: 0.7081 - acc per char: 0.9093
+iter: 000600 - train loss: 0.755 - lr: 7.14e-05 - load time: 0.02 - gpu time: 15.68
+iter: 000700 - train loss: 0.756 - lr: 9.07e-05 - load time: 0.02 - gpu time: 15.46
+iter: 000800 - train loss: 0.746 - lr: 1.12e-04 - load time: 0.02 - gpu time: 15.56
+iter: 000900 - train loss: 0.729 - lr: 1.34e-04 - load time: 0.02 - gpu time: 14.80
+iter: 001000 - train loss: 0.728 - lr: 1.56e-04 - load time: 0.02 - gpu time: 15.20
+iter: 001000 - valid loss: 0.697 - acc full seq: 0.7028 - acc per char: 0.8958
+iter: 001100 - train loss: 0.743 - lr: 1.79e-04 - load time: 0.02 - gpu time: 14.70
+iter: 001200 - train loss: 0.742 - lr: 2.01e-04 - load time: 0.02 - gpu time: 14.90
+iter: 001300 - train loss: 0.744 - lr: 2.22e-04 - load time: 0.02 - gpu time: 15.21
+iter: 001400 - train loss: 0.761 - lr: 2.41e-04 - load time: 0.02 - gpu time: 15.29
+iter: 001500 - train loss: 0.745 - lr: 2.58e-04 - load time: 0.02 - gpu time: 14.78
+iter: 001500 - valid loss: 0.706 - acc full seq: 0.6735 - acc per char: 0.8934
+iter: 001600 - train loss: 0.743 - lr: 2.73e-04 - load time: 0.02 - gpu time: 14.67
+iter: 001700 - train loss: 0.749 - lr: 2.84e-04 - load time: 0.02 - gpu time: 14.97
+iter: 001800 - train loss: 0.761 - lr: 2.93e-04 - load time: 0.02 - gpu time: 15.30
+iter: 001900 - train loss: 0.768 - lr: 2.98e-04 - load time: 0.71 - gpu time: 15.84
+iter: 002000 - train loss: 0.753 - lr: 3.00e-04 - load time: 0.02 - gpu time: 15.07
+iter: 002000 - valid loss: 0.710 - acc full seq: 0.6868 - acc per char: 0.8855
+iter: 002100 - train loss: 0.742 - lr: 3.00e-04 - load time: 0.02 - gpu time: 14.86
+iter: 002200 - train loss: 0.743 - lr: 3.00e-04 - load time: 0.02 - gpu time: 15.23
+iter: 002300 - train loss: 0.734 - lr: 3.00e-04 - load time: 0.02 - gpu time: 14.80
+iter: 002400 - train loss: 0.732 - lr: 3.00e-04 - load time: 0.02 - gpu time: 14.51
+iter: 002500 - train loss: 0.748 - lr: 2.99e-04 - load time: 0.02 - gpu time: 14.96
+iter: 002500 - valid loss: 0.694 - acc full seq: 0.6835 - acc per char: 0.8955
+iter: 002600 - train loss: 0.740 - lr: 2.99e-04 - load time: 0.02 - gpu time: 19.57
+iter: 002700 - train loss: 0.751 - lr: 2.99e-04 - load time: 0.02 - gpu time: 19.50
+iter: 002800 - train loss: 0.754 - lr: 2.99e-04 - load time: 0.02 - gpu time: 19.86
+iter: 002900 - train loss: 0.736 - lr: 2.98e-04 - load time: 0.02 - gpu time: 18.33
+iter: 003000 - train loss: 0.746 - lr: 2.98e-04 - load time: 0.02 - gpu time: 15.30
+iter: 003000 - valid loss: 0.701 - acc full seq: 0.6938 - acc per char: 0.8928
+iter: 003100 - train loss: 0.726 - lr: 2.97e-04 - load time: 0.02 - gpu time: 15.15
+iter: 003200 - train loss: 0.729 - lr: 2.97e-04 - load time: 0.02 - gpu time: 14.34
+iter: 003300 - train loss: 0.735 - lr: 2.96e-04 - load time: 0.02 - gpu time: 15.78
+iter: 003400 - train loss: 0.744 - lr: 2.96e-04 - load time: 0.02 - gpu time: 14.25
+iter: 003500 - train loss: 0.730 - lr: 2.95e-04 - load time: 0.02 - gpu time: 15.56
+iter: 003500 - valid loss: 0.697 - acc full seq: 0.7058 - acc per char: 0.8994
+iter: 003600 - train loss: 0.723 - lr: 2.94e-04 - load time: 0.02 - gpu time: 14.97
+iter: 003700 - train loss: 0.748 - lr: 2.93e-04 - load time: 0.47 - gpu time: 16.24
+iter: 003800 - train loss: 0.723 - lr: 2.93e-04 - load time: 0.02 - gpu time: 15.23
+iter: 003900 - train loss: 0.745 - lr: 2.92e-04 - load time: 0.02 - gpu time: 15.52
+iter: 004000 - train loss: 0.720 - lr: 2.91e-04 - load time: 0.02 - gpu time: 16.14
+iter: 004000 - valid loss: 0.700 - acc full seq: 0.6689 - acc per char: 0.8819
+iter: 004100 - train loss: 0.718 - lr: 2.90e-04 - load time: 0.02 - gpu time: 14.50
+iter: 004200 - train loss: 0.724 - lr: 2.89e-04 - load time: 0.01 - gpu time: 14.47
+iter: 004300 - train loss: 0.728 - lr: 2.88e-04 - load time: 0.02 - gpu time: 15.51
+iter: 004400 - train loss: 0.732 - lr: 2.87e-04 - load time: 0.01 - gpu time: 15.41
+iter: 004500 - train loss: 0.734 - lr: 2.86e-04 - load time: 0.02 - gpu time: 14.22
+iter: 004500 - valid loss: 0.692 - acc full seq: 0.6991 - acc per char: 0.8980
+iter: 004600 - train loss: 0.703 - lr: 2.85e-04 - load time: 0.02 - gpu time: 14.35
+iter: 004700 - train loss: 0.737 - lr: 2.84e-04 - load time: 0.02 - gpu time: 15.12
+iter: 004800 - train loss: 0.737 - lr: 2.82e-04 - load time: 0.02 - gpu time: 15.52
+iter: 004900 - train loss: 0.709 - lr: 2.81e-04 - load time: 0.02 - gpu time: 15.49
+iter: 005000 - train loss: 0.720 - lr: 2.80e-04 - load time: 0.02 - gpu time: 16.10
+iter: 005000 - valid loss: 0.689 - acc full seq: 0.7251 - acc per char: 0.9101
+iter: 005100 - train loss: 0.710 - lr: 2.79e-04 - load time: 0.02 - gpu time: 14.30
+iter: 005200 - train loss: 0.729 - lr: 2.77e-04 - load time: 0.02 - gpu time: 15.53
+iter: 005300 - train loss: 0.723 - lr: 2.76e-04 - load time: 0.02 - gpu time: 15.23
+iter: 005400 - train loss: 0.707 - lr: 2.74e-04 - load time: 0.02 - gpu time: 14.34
+iter: 005500 - train loss: 0.717 - lr: 2.73e-04 - load time: 0.02 - gpu time: 14.69
+iter: 005500 - valid loss: 0.688 - acc full seq: 0.6902 - acc per char: 0.8917
+iter: 005600 - train loss: 0.706 - lr: 2.71e-04 - load time: 0.71 - gpu time: 14.76
+iter: 005700 - train loss: 0.704 - lr: 2.70e-04 - load time: 0.02 - gpu time: 14.94
+iter: 005800 - train loss: 0.711 - lr: 2.68e-04 - load time: 0.02 - gpu time: 14.27
+iter: 005900 - train loss: 0.711 - lr: 2.67e-04 - load time: 0.02 - gpu time: 15.79
+iter: 006000 - train loss: 0.713 - lr: 2.65e-04 - load time: 0.02 - gpu time: 15.07
+iter: 006000 - valid loss: 0.685 - acc full seq: 0.7267 - acc per char: 0.9033
+iter: 006100 - train loss: 0.717 - lr: 2.63e-04 - load time: 0.02 - gpu time: 16.14
+iter: 006200 - train loss: 0.707 - lr: 2.61e-04 - load time: 0.02 - gpu time: 14.53
+iter: 006300 - train loss: 0.724 - lr: 2.60e-04 - load time: 0.02 - gpu time: 14.85
+iter: 006400 - train loss: 0.720 - lr: 2.58e-04 - load time: 0.02 - gpu time: 15.40
+iter: 006500 - train loss: 0.706 - lr: 2.56e-04 - load time: 0.02 - gpu time: 14.59
+iter: 006500 - valid loss: 0.690 - acc full seq: 0.7114 - acc per char: 0.8975
+iter: 006600 - train loss: 0.718 - lr: 2.54e-04 - load time: 0.02 - gpu time: 15.16
+iter: 006700 - train loss: 0.713 - lr: 2.52e-04 - load time: 0.02 - gpu time: 15.28
+iter: 006800 - train loss: 0.692 - lr: 2.50e-04 - load time: 0.02 - gpu time: 15.29
+iter: 006900 - train loss: 0.711 - lr: 2.48e-04 - load time: 0.02 - gpu time: 15.06
+iter: 007000 - train loss: 0.700 - lr: 2.46e-04 - load time: 0.04 - gpu time: 23.34
+iter: 007000 - valid loss: 0.687 - acc full seq: 0.7221 - acc per char: 0.9072
+iter: 007100 - train loss: 0.702 - lr: 2.44e-04 - load time: 0.02 - gpu time: 19.30
+iter: 007200 - train loss: 0.702 - lr: 2.42e-04 - load time: 0.02 - gpu time: 20.51
+iter: 007300 - train loss: 0.720 - lr: 2.40e-04 - load time: 0.02 - gpu time: 19.46
+iter: 007400 - train loss: 0.714 - lr: 2.38e-04 - load time: 0.63 - gpu time: 18.61
+iter: 007500 - train loss: 0.725 - lr: 2.36e-04 - load time: 0.02 - gpu time: 16.23
+iter: 007500 - valid loss: 0.688 - acc full seq: 0.7178 - acc per char: 0.9124
+iter: 007600 - train loss: 0.691 - lr: 2.34e-04 - load time: 0.02 - gpu time: 15.30
+iter: 007700 - train loss: 0.705 - lr: 2.32e-04 - load time: 0.02 - gpu time: 15.27
+iter: 007800 - train loss: 0.704 - lr: 2.29e-04 - load time: 0.02 - gpu time: 15.02
+iter: 007900 - train loss: 0.703 - lr: 2.27e-04 - load time: 0.02 - gpu time: 15.15
+iter: 008000 - train loss: 0.688 - lr: 2.25e-04 - load time: 0.02 - gpu time: 14.99
+iter: 008000 - valid loss: 0.687 - acc full seq: 0.6975 - acc per char: 0.9086
+iter: 008100 - train loss: 0.700 - lr: 2.23e-04 - load time: 0.04 - gpu time: 20.80
+iter: 008200 - train loss: 0.695 - lr: 2.20e-04 - load time: 0.04 - gpu time: 21.08
+iter: 008300 - train loss: 0.681 - lr: 2.18e-04 - load time: 0.03 - gpu time: 20.65
+iter: 008400 - train loss: 0.691 - lr: 2.16e-04 - load time: 0.04 - gpu time: 22.18
+iter: 008500 - train loss: 0.696 - lr: 2.13e-04 - load time: 0.03 - gpu time: 21.06
+iter: 008500 - valid loss: 0.682 - acc full seq: 0.7237 - acc per char: 0.9023
+iter: 008600 - train loss: 0.705 - lr: 2.11e-04 - load time: 0.02 - gpu time: 15.59
+iter: 008700 - train loss: 0.692 - lr: 2.09e-04 - load time: 0.02 - gpu time: 15.26
+iter: 008800 - train loss: 0.671 - lr: 2.06e-04 - load time: 0.02 - gpu time: 14.81
+iter: 008900 - train loss: 0.694 - lr: 2.04e-04 - load time: 0.02 - gpu time: 14.65
+iter: 009000 - train loss: 0.680 - lr: 2.01e-04 - load time: 0.02 - gpu time: 14.89
+iter: 009000 - valid loss: 0.686 - acc full seq: 0.7124 - acc per char: 0.9083
+iter: 009100 - train loss: 0.693 - lr: 1.99e-04 - load time: 0.02 - gpu time: 15.27
+iter: 009200 - train loss: 0.687 - lr: 1.96e-04 - load time: 0.02 - gpu time: 15.33
+iter: 009300 - train loss: 0.707 - lr: 1.94e-04 - load time: 0.56 - gpu time: 14.82
+iter: 009400 - train loss: 0.691 - lr: 1.91e-04 - load time: 0.02 - gpu time: 14.76
+iter: 009500 - train loss: 0.695 - lr: 1.89e-04 - load time: 0.03 - gpu time: 16.08
+iter: 009500 - valid loss: 0.680 - acc full seq: 0.7217 - acc per char: 0.9131
+iter: 009600 - train loss: 0.666 - lr: 1.86e-04 - load time: 0.02 - gpu time: 14.87
+iter: 009700 - train loss: 0.695 - lr: 1.84e-04 - load time: 0.02 - gpu time: 15.03
+iter: 009800 - train loss: 0.684 - lr: 1.81e-04 - load time: 0.02 - gpu time: 15.07
+iter: 009900 - train loss: 0.685 - lr: 1.79e-04 - load time: 0.02 - gpu time: 15.10
+iter: 010000 - train loss: 0.688 - lr: 1.76e-04 - load time: 0.02 - gpu time: 15.31
+iter: 010000 - valid loss: 0.680 - acc full seq: 0.7287 - acc per char: 0.9132
+iter: 010100 - train loss: 0.693 - lr: 1.73e-04 - load time: 0.02 - gpu time: 15.36
+iter: 010200 - train loss: 0.687 - lr: 1.71e-04 - load time: 0.02 - gpu time: 16.09
+iter: 010300 - train loss: 0.673 - lr: 1.68e-04 - load time: 0.02 - gpu time: 14.92
+iter: 010400 - train loss: 0.690 - lr: 1.66e-04 - load time: 0.02 - gpu time: 16.06
+iter: 010500 - train loss: 0.668 - lr: 1.63e-04 - load time: 0.02 - gpu time: 15.44
+iter: 010500 - valid loss: 0.679 - acc full seq: 0.7071 - acc per char: 0.9009
+iter: 010600 - train loss: 0.686 - lr: 1.60e-04 - load time: 0.02 - gpu time: 15.07
+iter: 010700 - train loss: 0.690 - lr: 1.58e-04 - load time: 0.02 - gpu time: 15.07
+iter: 010800 - train loss: 0.692 - lr: 1.55e-04 - load time: 0.02 - gpu time: 15.66
+iter: 010900 - train loss: 0.665 - lr: 1.53e-04 - load time: 0.02 - gpu time: 14.36
+iter: 011000 - train loss: 0.658 - lr: 1.50e-04 - load time: 0.02 - gpu time: 15.98
+iter: 011000 - valid loss: 0.674 - acc full seq: 0.7583 - acc per char: 0.9209
+iter: 011100 - train loss: 0.649 - lr: 1.47e-04 - load time: 0.68 - gpu time: 14.58
+iter: 011200 - train loss: 0.671 - lr: 1.45e-04 - load time: 0.02 - gpu time: 15.56
+iter: 011300 - train loss: 0.676 - lr: 1.42e-04 - load time: 0.03 - gpu time: 18.49
+iter: 011400 - train loss: 0.670 - lr: 1.40e-04 - load time: 0.03 - gpu time: 20.01
+iter: 011500 - train loss: 0.667 - lr: 1.37e-04 - load time: 0.03 - gpu time: 20.52
+iter: 011500 - valid loss: 0.677 - acc full seq: 0.7470 - acc per char: 0.9078
+iter: 011600 - train loss: 0.677 - lr: 1.34e-04 - load time: 0.03 - gpu time: 16.80
+iter: 011700 - train loss: 0.674 - lr: 1.32e-04 - load time: 0.03 - gpu time: 18.67
+iter: 011800 - train loss: 0.676 - lr: 1.29e-04 - load time: 0.03 - gpu time: 21.56
+iter: 011900 - train loss: 0.654 - lr: 1.27e-04 - load time: 0.03 - gpu time: 21.16
+iter: 012000 - train loss: 0.684 - lr: 1.24e-04 - load time: 0.03 - gpu time: 21.09
+iter: 012000 - valid loss: 0.675 - acc full seq: 0.7327 - acc per char: 0.9111
+iter: 012100 - train loss: 0.646 - lr: 1.21e-04 - load time: 0.03 - gpu time: 19.62
+iter: 012200 - train loss: 0.658 - lr: 1.19e-04 - load time: 0.03 - gpu time: 20.13
+iter: 012300 - train loss: 0.669 - lr: 1.16e-04 - load time: 0.03 - gpu time: 21.12
+iter: 012400 - train loss: 0.671 - lr: 1.14e-04 - load time: 0.03 - gpu time: 21.88
+iter: 012500 - train loss: 0.679 - lr: 1.11e-04 - load time: 0.03 - gpu time: 21.35
+iter: 012500 - valid loss: 0.679 - acc full seq: 0.7503 - acc per char: 0.9113
+iter: 012600 - train loss: 0.664 - lr: 1.09e-04 - load time: 0.03 - gpu time: 20.73
+iter: 012700 - train loss: 0.670 - lr: 1.06e-04 - load time: 0.02 - gpu time: 19.57
+iter: 012800 - train loss: 0.682 - lr: 1.04e-04 - load time: 0.03 - gpu time: 19.96
+iter: 012900 - train loss: 0.678 - lr: 1.01e-04 - load time: 0.03 - gpu time: 18.05
+iter: 013000 - train loss: 0.654 - lr: 9.87e-05 - load time: 0.64 - gpu time: 15.31
+iter: 013000 - valid loss: 0.673 - acc full seq: 0.7380 - acc per char: 0.9117
+iter: 013100 - train loss: 0.653 - lr: 9.62e-05 - load time: 0.02 - gpu time: 15.23
+iter: 013200 - train loss: 0.660 - lr: 9.38e-05 - load time: 0.02 - gpu time: 15.12
+iter: 013300 - train loss: 0.646 - lr: 9.14e-05 - load time: 0.02 - gpu time: 14.82
+iter: 013400 - train loss: 0.657 - lr: 8.90e-05 - load time: 0.02 - gpu time: 15.37
+iter: 013500 - train loss: 0.662 - lr: 8.66e-05 - load time: 0.02 - gpu time: 15.54
+iter: 013500 - valid loss: 0.668 - acc full seq: 0.7527 - acc per char: 0.9153
+iter: 013600 - train loss: 0.660 - lr: 8.42e-05 - load time: 0.02 - gpu time: 15.12
+iter: 013700 - train loss: 0.654 - lr: 8.19e-05 - load time: 0.03 - gpu time: 15.98
+iter: 013800 - train loss: 0.658 - lr: 7.96e-05 - load time: 0.03 - gpu time: 16.53
+iter: 013900 - train loss: 0.658 - lr: 7.73e-05 - load time: 0.03 - gpu time: 19.06
+iter: 014000 - train loss: 0.657 - lr: 7.50e-05 - load time: 0.03 - gpu time: 19.95
+iter: 014000 - valid loss: 0.673 - acc full seq: 0.7327 - acc per char: 0.9096
+iter: 014100 - train loss: 0.672 - lr: 7.27e-05 - load time: 0.02 - gpu time: 15.11
+iter: 014200 - train loss: 0.645 - lr: 7.05e-05 - load time: 0.02 - gpu time: 14.05
+iter: 014300 - train loss: 0.651 - lr: 6.83e-05 - load time: 0.02 - gpu time: 15.90
+iter: 014400 - train loss: 0.679 - lr: 6.61e-05 - load time: 0.03 - gpu time: 19.91
+iter: 014500 - train loss: 0.678 - lr: 6.39e-05 - load time: 0.02 - gpu time: 17.85
+iter: 014500 - valid loss: 0.673 - acc full seq: 0.7540 - acc per char: 0.9196
+iter: 014600 - train loss: 0.657 - lr: 6.18e-05 - load time: 0.04 - gpu time: 21.39
+iter: 014700 - train loss: 0.672 - lr: 5.97e-05 - load time: 0.03 - gpu time: 21.40
+iter: 014800 - train loss: 0.655 - lr: 5.76e-05 - load time: 0.95 - gpu time: 20.56
+iter: 014900 - train loss: 0.659 - lr: 5.56e-05 - load time: 0.03 - gpu time: 21.30
+iter: 015000 - train loss: 0.634 - lr: 5.36e-05 - load time: 0.05 - gpu time: 21.35
+iter: 015000 - valid loss: 0.674 - acc full seq: 0.7453 - acc per char: 0.9146
+iter: 015100 - train loss: 0.659 - lr: 5.16e-05 - load time: 0.03 - gpu time: 19.03
+iter: 015200 - train loss: 0.660 - lr: 4.96e-05 - load time: 0.03 - gpu time: 19.95
+iter: 015300 - train loss: 0.644 - lr: 4.77e-05 - load time: 0.03 - gpu time: 19.29
+iter: 015400 - train loss: 0.650 - lr: 4.58e-05 - load time: 0.03 - gpu time: 20.73
+iter: 015500 - train loss: 0.644 - lr: 4.39e-05 - load time: 0.03 - gpu time: 18.54
+iter: 015500 - valid loss: 0.672 - acc full seq: 0.7573 - acc per char: 0.9203
+iter: 015600 - train loss: 0.653 - lr: 4.21e-05 - load time: 0.02 - gpu time: 18.14
+iter: 015700 - train loss: 0.646 - lr: 4.03e-05 - load time: 0.03 - gpu time: 17.91
+iter: 015800 - train loss: 0.659 - lr: 3.85e-05 - load time: 0.02 - gpu time: 19.66
+iter: 015900 - train loss: 0.649 - lr: 3.68e-05 - load time: 0.02 - gpu time: 17.59
+iter: 016000 - train loss: 0.648 - lr: 3.51e-05 - load time: 0.03 - gpu time: 17.86
+iter: 016000 - valid loss: 0.670 - acc full seq: 0.7583 - acc per char: 0.9218
+iter: 016100 - train loss: 0.667 - lr: 3.34e-05 - load time: 0.03 - gpu time: 20.84
+iter: 016200 - train loss: 0.644 - lr: 3.18e-05 - load time: 0.04 - gpu time: 20.88
+iter: 016300 - train loss: 0.659 - lr: 3.02e-05 - load time: 0.03 - gpu time: 20.14
+iter: 016400 - train loss: 0.657 - lr: 2.86e-05 - load time: 0.03 - gpu time: 20.57
+iter: 016500 - train loss: 0.652 - lr: 2.71e-05 - load time: 0.04 - gpu time: 20.71
+iter: 016500 - valid loss: 0.665 - acc full seq: 0.7497 - acc per char: 0.9188
+iter: 016600 - train loss: 0.647 - lr: 2.56e-05 - load time: 0.03 - gpu time: 21.15
+iter: 016700 - train loss: 0.652 - lr: 2.42e-05 - load time: 1.06 - gpu time: 20.26
+iter: 016800 - train loss: 0.665 - lr: 2.28e-05 - load time: 0.03 - gpu time: 21.95
+iter: 016900 - train loss: 0.662 - lr: 2.14e-05 - load time: 0.04 - gpu time: 20.13
+iter: 017000 - train loss: 0.648 - lr: 2.01e-05 - load time: 0.04 - gpu time: 20.10
+iter: 017000 - valid loss: 0.669 - acc full seq: 0.7596 - acc per char: 0.9209
+iter: 017100 - train loss: 0.647 - lr: 1.88e-05 - load time: 0.04 - gpu time: 17.39
+iter: 017200 - train loss: 0.637 - lr: 1.75e-05 - load time: 0.03 - gpu time: 16.64
+iter: 017300 - train loss: 0.634 - lr: 1.63e-05 - load time: 0.03 - gpu time: 16.31
+iter: 017400 - train loss: 0.642 - lr: 1.52e-05 - load time: 0.06 - gpu time: 16.33
+iter: 017500 - train loss: 0.639 - lr: 1.40e-05 - load time: 0.05 - gpu time: 17.02
+iter: 017500 - valid loss: 0.666 - acc full seq: 0.7713 - acc per char: 0.9238
+iter: 017600 - train loss: 0.651 - lr: 1.30e-05 - load time: 0.04 - gpu time: 23.26
+iter: 017700 - train loss: 0.665 - lr: 1.19e-05 - load time: 0.03 - gpu time: 22.33
+iter: 017800 - train loss: 0.635 - lr: 1.09e-05 - load time: 0.04 - gpu time: 21.08
+iter: 017900 - train loss: 0.644 - lr: 9.95e-06 - load time: 0.04 - gpu time: 21.38
+iter: 018000 - train loss: 0.644 - lr: 9.04e-06 - load time: 0.03 - gpu time: 20.88
+iter: 018000 - valid loss: 0.671 - acc full seq: 0.7497 - acc per char: 0.9147
+iter: 018100 - train loss: 0.647 - lr: 8.16e-06 - load time: 0.05 - gpu time: 21.80
+iter: 018200 - train loss: 0.641 - lr: 7.33e-06 - load time: 0.04 - gpu time: 20.89
+iter: 018300 - train loss: 0.639 - lr: 6.55e-06 - load time: 0.04 - gpu time: 20.99
+iter: 018400 - train loss: 0.646 - lr: 5.80e-06 - load time: 0.04 - gpu time: 22.14
+iter: 018500 - train loss: 0.640 - lr: 5.11e-06 - load time: 0.97 - gpu time: 21.04
+iter: 018500 - valid loss: 0.667 - acc full seq: 0.7414 - acc per char: 0.9199
+iter: 018600 - train loss: 0.628 - lr: 4.45e-06 - load time: 0.04 - gpu time: 20.90
+iter: 018700 - train loss: 0.645 - lr: 3.84e-06 - load time: 0.03 - gpu time: 21.73
+iter: 018800 - train loss: 0.645 - lr: 3.27e-06 - load time: 0.03 - gpu time: 21.88
+iter: 018900 - train loss: 0.636 - lr: 2.75e-06 - load time: 0.03 - gpu time: 21.25
+iter: 019000 - train loss: 0.654 - lr: 2.28e-06 - load time: 0.03 - gpu time: 21.52
+iter: 019000 - valid loss: 0.669 - acc full seq: 0.7447 - acc per char: 0.9166
+iter: 019100 - train loss: 0.652 - lr: 1.84e-06 - load time: 0.03 - gpu time: 21.14
+iter: 019200 - train loss: 0.630 - lr: 1.46e-06 - load time: 0.04 - gpu time: 19.78
+iter: 019300 - train loss: 0.657 - lr: 1.12e-06 - load time: 0.03 - gpu time: 19.56
+iter: 019400 - train loss: 0.627 - lr: 8.20e-07 - load time: 0.03 - gpu time: 18.74
+iter: 019500 - train loss: 0.645 - lr: 5.70e-07 - load time: 0.06 - gpu time: 20.85
+iter: 019500 - valid loss: 0.666 - acc full seq: 0.7407 - acc per char: 0.9146
+iter: 019600 - train loss: 0.649 - lr: 3.65e-07 - load time: 0.03 - gpu time: 19.69
+iter: 019700 - train loss: 0.667 - lr: 2.05e-07 - load time: 0.03 - gpu time: 21.07
+iter: 019800 - train loss: 0.646 - lr: 9.17e-08 - load time: 0.04 - gpu time: 19.96
+iter: 019900 - train loss: 0.639 - lr: 2.36e-08 - load time: 0.04 - gpu time: 22.56
+iter: 020000 - train loss: 0.663 - lr: 1.20e-09 - load time: 0.03 - gpu time: 21.45
+iter: 020000 - valid loss: 0.667 - acc full seq: 0.7646 - acc per char: 0.9201

@@ -1,0 +1,23 @@
+nvidia/cuda:11.2.1-runtime-ubuntu20.04
+pip install -r setup.txt
+pip install --upgrade pip
+pip install keras==2.3.1
+pip install matplotlib
+pip install torch
+pip install nvidia-pyindex
+pip install nvidia-tensorflow[horovod]
+pip install nvidia-tensorboard==1.15
+apt-get install build-essential libglib2.0-0 libsm6 libxext6 libxrender-dev
+# sau khi cai paddle: apt-get install libglib2.0-0
+# VietOCR
+cd mc_ocr/text_classifier/vietocr
+pip3 install -e .
+pip install torchvision 
+pip uninstall gdown
+pip install gdown
+pip install torchvision 
+#font cho visualize vietocr
+apt install msttcorefonts -qq
+rm ~/.cache/matplotlib -rf
+PICK: nvidia/cuda:10.1-cudnn7-devel-ubuntu18.04 (py 3.6.7)
+#o pick thi phai unbutu 18.04 va sua lai requirement.txt line 4 thanh opencv-python-headless==4.3.0.36. But nho la pip3 install -U pip first

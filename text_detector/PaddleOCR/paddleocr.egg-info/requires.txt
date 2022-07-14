@@ -1,0 +1,10 @@
+imgaug
+lmdb
+numpy
+opencv-python==4.2.0.32
+pyclipper
+python-Levenshtein
+shapely
+tqdm
+tqdm
+visualdl
