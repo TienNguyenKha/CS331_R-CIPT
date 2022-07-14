@@ -37,7 +37,7 @@ Bước này sẽ tìm vị trí của vùng chữ trên ảnh. Chúng tôi sử
 
 File **paddle_infer.py** có input là ảnh đã được croped từ bước trước và output sẽ là file txt chứa các bounding box mà nó dự đoán. File txt này sẽ được lưu lại ở det_out_txt_dir mà ta đã gán trong file này.
 
-**Note**: trong file **paddle_infer.py** các bạn cần chỉnh sửa lại **det_model_dir** là đường dẫn của model vừa được tải về. Ngoài ra các bạn còn chỉnh thêm vị trí mà các bạn muốn kết quả trả về thông qua chỉnh lại **det_out_txt_dir**. 
+**Note**: trong file **paddle_infer.py** các bạn cần chỉnh sửa lại **det_model_dir** là đường dẫn của model vừa được tải về và giải nén. Ngoài ra các bạn còn chỉnh thêm vị trí mà các bạn muốn kết quả trả về thông qua chỉnh lại **det_out_txt_dir**. 
 
 ## Nhận diện văn bản (VietOCR):
 
