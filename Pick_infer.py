@@ -36,3 +36,5 @@ with open('boxes_and_transcripts/filename.tsv', 'w', newline='', encoding='utf-8
         idx+=1
 
 #Pick infer:
+from PICK-pytorch.test import main_test
+main_test()
