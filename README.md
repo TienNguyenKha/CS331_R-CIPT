@@ -72,13 +72,13 @@ cd CS331_R-CIPT
 
 **Note**: Gỉa sử đã có được các file ảnh text và label chữ cho các file này. Chúng ta cần phải chia train/test/val, chúng tôi có cung cấp hàm **split_mcocr()** để phục vụ cho việc này ở ngay trong file **trainocr.py**. Các bạn có thể comment phần training để mình chạy phần chia data trước rồi training sau. Ngoài ra các bạn nên xem thêm cách training và điều chỉnh file config ngay tại repo gốc của tác giả [tại đây](https://github.com/pbcquoc/vietocr). File model sau khi train xong sẽ được lưu ở **train_vietocr/weights**.
 
-###Sử dụng: 
+### Sử dụng: 
 
 ```
 python3 vietocr_infer.py
 ```
 
-**Note: **
+**Note**
 
 Sau khi training xong chúng ta sẽ có được file model ở **train_vietocr/weights**. Việc của bạn bây giờ sẽ là chọn file model (.pth) và file cfg tương ứng, rồi sau đó tiến hành chỉnh sửa trong file **text_classifier/vietocr/vietocr/vietocr_class.py**. 
 
@@ -90,7 +90,7 @@ Bước này sử dụng PICK model của tác giả wenwenyu để trích xuấ
 
 Link model đã được training sẵn cho bài này: https://drive.google.com/drive/u/1/folders/10sCCINIrFx3MjU2OGlIHGbcFi8t8-JfH
 
-###Sử dụng: 
+### Sử dụng: 
 
 ```
 python3 Pick_infer.py
